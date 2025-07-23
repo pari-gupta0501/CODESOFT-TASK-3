@@ -94,6 +94,11 @@ python app.py
 
 ---
 
+## SAMPLE OUTPUT
+
+<img width="468" height="414" alt="image" src="https://github.com/user-attachments/assets/18322aed-6725-4215-b680-7c2c9764aaa6" />
+
+
 ## 📌 Future Improvements
 
 Use Beam Search instead of Greedy Search

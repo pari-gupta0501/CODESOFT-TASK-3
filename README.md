@@ -69,29 +69,29 @@ image-captioning/
 ## ✅ Steps to Run
 
 1. Install Dependencies
-
+```
 pip install tensorflow keras numpy matplotlib pillow
-
+```
 2. Extract Image Features
-
+```
 ### Inside utils.py
 
 features = extract_features('images/example.jpg')
-
+```
 3. Clean Captions and Tokenize
-
+```
 cleaned = clean_caption("A boy playing with a dog")
-
+```
 4. Train Model
-
+```
 python train.py
-
+```
 5. Generate Caption
-
+```
 python app.py
 
 ### Output: "A boy is playing with a ball"
-
+```
 ---
 
 ## SAMPLE OUTPUT
